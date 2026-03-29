@@ -36,7 +36,7 @@ It combines **creative generation with verifiable ownership** in a unified pipel
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="system-architecture.png" width="800">
+  <img src="images/system-architecture.png" width="800">
 </p>
 
 ---
