@@ -6,55 +6,6 @@
   A multimodal generative AI system for fashion design with blockchain-backed ownership.
 </p>
 
----
-📌 Overview
-
-StyleSensei is a multimodal generative AI system that enables users to create and transform fashion designs using text, images, and sketches.
-
-The system integrates:
-
-Stable Diffusion for image generation
-Flask backend for orchestration
-Ethereum smart contracts for ownership verification
-IPFS for decentralized storage
-
-It combines creative generation with verifiable ownership in a unified pipeline.
-
-🚀 Key Features
-✨ Text-to-image fashion generation
-🖼️ Image-to-image transformation
-✏️ Sketch-to-design conversion
-🤖 AI-based styling assistant
-🔐 Blockchain-based ownership registration
-📦 Decentralized storage using IPFS
-🎯 Personalized recommendations
-🏗️ System Architecture
-📈 Performance Metrics
-Text-to-Image: ~10–20 sec (GPU)
-Image-to-Image: ~8–15 sec
-Sketch-to-Image: ~12–22 sec
-GPU Usage: ~70–95%
-Latency Improvement: ~5–10x faster than CPU
-
-## 🖼️ UI Preview
-
-### Text-to-Image Generation
-
-<p align="center">
-  <img src="Text-to-image.png" width="800">
-</p>
-
-### Image-to-Image Transformation
-
-<p align="center">
-  <img src="image-to-image.png" width="800"><h1 align="center">👗 StyleSensei - Multimodal AI Fashion Assistant</h1>
-
-<p align="center">
-  <b>Generate. Transform. Own.</b><br>
-  A multimodal generative AI system for fashion design with blockchain-backed ownership.
-</p>
-
----
 
 ## 📌 Overview
 
