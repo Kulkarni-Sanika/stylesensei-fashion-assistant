@@ -1,5 +1,5 @@
-<h1 align="center">👗 StyleSensei</h1>
-<p align="center"><b>Multimodal AI Fashion Assistant</b></p>
+<h1 align="center">👗 StyleSensei - >Multimodal AI Fashion Assistant</h1>
+
 
 <p align="center">
   <b>Generate. Transform. Own.</b><br>
@@ -33,10 +33,10 @@ The goal is to combine **creative generation + verifiable ownership** into a sin
 * ✨ Text-to-image fashion design generation
 * 🖼️ Image-to-image style transformation
 * ✏️ Sketch-to-design conversion
-* 🤖 Conversational assistant for styling guidance *(placeholder: describe model if applicable)*
+* 🤖 Conversational assistant for styling guidance 
 * 🔐 Blockchain-based ownership registration
 * 📦 Decentralized storage using IPFS
-* 🎯 Personalized design recommendations *(placeholder: if implemented)*
+* 🎯 Personalized design recommendations
 
 ---
 
