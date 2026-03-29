@@ -38,6 +38,17 @@ StyleSensei supports a multimodal pipeline that allows users to:
 ### 🖼️ Text-Image Generation
 ![Text-Image Generation](Text-to-image.png)
 
+### 🖼️ Image-Image Generation
+![Image-Image Generation](image-to-image.png)
+
+### 🖼️ Sketch-Image Generation
+![Sketch-Image Generation](sketch-to-image.png)
+
+### 🖼️ Design Certificate Generation
+![Design Certificate Generation](design-certificate.png)
+
+### 🖼️ Chatbot
+![Chatbot](chatbot.png)
 ---
 
 ## 🛠️ Tech Stack
@@ -69,7 +80,6 @@ StyleSensei supports a multimodal pipeline that allows users to:
 ### Storage
 
 * IPFS (InterPlanetary File System)
-
 ---
 
 ## 📈 Key Highlights
@@ -98,6 +108,7 @@ This project is based on a research paper published in:
 
 **International Journal of Innovative Research in Technology (IJIRT)**
 Title: *Revolutionizing Fashion Design with Multimodal Generative AI and Blockchain-Enabled Ownership*
+Link : https://ijirt.org/article?manuscript=192431
 
 ---
 
@@ -113,8 +124,8 @@ Title: *Revolutionizing Fashion Design with Multimodal Generative AI and Blockch
 
 ## 👨‍💻 Author
 
-Marcus Baker
-AI | Backend | Blockchain | Generative AI
+Sanika Kulkarni
+Software Engineer
 
 ---
 
