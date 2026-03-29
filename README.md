@@ -1,4 +1,5 @@
-# 👗 StyleSensei — Multimodal AI Fashion Assistant
+<h1 align="center">👗 StyleSensei</h1>
+<p align="center"><b>Multimodal AI Fashion Assistant</b></p>
 
 <p align="center">
   <b>Generate. Transform. Own.</b><br>
@@ -6,16 +7,12 @@
 </p>
 
 ---
-
+<!---
 ## 🎥 Demo
 
 📽️ **Project Demo Video:** [Add YouTube / Loom Link Here]
-📂 **Sample Outputs:** Available in `/assets` folder
-
-> ⚠️ Note: This project is not deployed in production. Please refer to the demo video for full functionality.
-
 ---
-
+--->
 ## 📌 Overview
 
 StyleSensei is a **multimodal generative AI system** that enables users to create and transform fashion designs using **text, images, and sketches**.
@@ -45,37 +42,10 @@ The goal is to combine **creative generation + verifiable ownership** into a sin
 
 ## 🏗️ System Architecture
 
-The system follows a modular pipeline:
 
-1. **User Input Layer**
-
-   * Text / Image / Sketch inputs
-
-2. **Preprocessing Layer**
-
-   * Input normalization and formatting *(placeholder: add details if implemented)*
-
-3. **Model Inference**
-
-   * Stable Diffusion generates design outputs
-
-4. **Post-processing**
-
-   * Image enhancement and formatting *(placeholder)*
-
-5. **Ownership Layer**
-
-   * Design hash stored via Ethereum smart contract
-
-6. **Storage Layer**
-
-   * Assets stored on IPFS
-
-7. **Frontend Rendering**
-
-   * Results displayed via web interface
-
-> 📊 *(Optional: Add architecture diagram image here)*
+<p align="center">
+  <img src="Text-to-image.png" width="800">
+</p>
 
 ---
 
