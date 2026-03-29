@@ -109,7 +109,7 @@ It combines **creative generation with verifiable ownership** in a unified pipel
 ### 📌 Prerequisites
 
 * Python 3.8+
-* Node.js (for Truffle)
+* Node.js 
 * Ganache
 * Truffle
 * MetaMask
