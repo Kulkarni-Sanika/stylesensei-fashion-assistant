@@ -3,7 +3,6 @@
 
 <p align="center">
   <b>Generate. Transform. Own.</b><br>
-  A multimodal generative AI system for fashion design with blockchain-backed ownership.
 </p>
 
 
