@@ -55,11 +55,6 @@ StyleSensei supports a multimodal pipeline that allows users to:
   <img src="design-certificate.png" width="500">
 </p>
 
-### 🖼️ Chatbot
-<p align="center">
-  <img src="chatbot.png" width="500">
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
