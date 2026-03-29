@@ -52,12 +52,12 @@ StyleSensei supports a multimodal pipeline that allows users to:
 
 ### 🖼️ Design Certificate Generation
 <p align="center">
-  <img src="design-certificate.png" width="800">
+  <img src="design-certificate.png" width="500">
 </p>
 
 ### 🖼️ Chatbot
 <p align="center">
-  <img src="chatbot.png" width="800">
+  <img src="chatbot.png" width="500">
 </p>
 
 ---
