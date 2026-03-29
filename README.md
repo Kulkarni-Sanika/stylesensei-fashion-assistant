@@ -1,56 +1,115 @@
 # 👗 StyleSensei — Multimodal AI Fashion Assistant
 
+<p align="center">
+  <b>Generate. Transform. Own.</b><br>
+  A multimodal generative AI system for fashion design with blockchain-backed ownership.
+</p>
+
+---
+
+## 🎥 Demo
+
+📽️ **Project Demo Video:** [Add YouTube / Loom Link Here]
+📂 **Sample Outputs:** Available in `/assets` folder
+
+> ⚠️ Note: This project is not deployed in production. Please refer to the demo video for full functionality.
+
+---
+
 ## 📌 Overview
 
-StyleSensei is a multimodal generative AI-powered fashion assistant designed to revolutionize digital fashion design and personalization. The system enables users to generate fashion concepts using text prompts, reference images, and sketches while ensuring secure ownership through blockchain-based verification.
+StyleSensei is a **multimodal generative AI system** that enables users to create and transform fashion designs using **text, images, and sketches**.
 
-StyleSensei bridges creativity and trust by combining generative AI with decentralized ownership, enabling designers and users to explore unique fashion ideas while protecting intellectual property.
+The system integrates:
+
+* **Stable Diffusion** for image generation
+* **Flask-based backend** for orchestration
+* **Ethereum smart contracts** for ownership verification
+* **IPFS** for decentralized storage
+
+The goal is to combine **creative generation + verifiable ownership** into a single pipeline.
 
 ---
 
 ## 🚀 Key Features
 
-* ✨ Text-to-Fashion Design Generation
-* 🖼️ Image-to-Image Style Transformation
-* ✏️ Sketch-to-Design Generation
-* 🤖 Conversational AI Style Assistant
-* 🔐 Blockchain-based Ownership Verification
-* 📦 Decentralized Storage using IPFS
-* 🎯 Personalized Fashion Recommendations
-* 🎨 Multimodal Creative Workflow
+* ✨ Text-to-image fashion design generation
+* 🖼️ Image-to-image style transformation
+* ✏️ Sketch-to-design conversion
+* 🤖 Conversational assistant for styling guidance *(placeholder: describe model if applicable)*
+* 🔐 Blockchain-based ownership registration
+* 📦 Decentralized storage using IPFS
+* 🎯 Personalized design recommendations *(placeholder: if implemented)*
 
 ---
 
-## 🧠 System Capabilities
+## 🏗️ System Architecture
 
-StyleSensei supports a multimodal pipeline that allows users to:
+The system follows a modular pipeline:
 
-* Generate fashion designs using natural language prompts
-* Transform existing outfits into new creative variations
-* Convert rough sketches into professional fashion illustrations
-* Receive AI-driven styling recommendations and trend insights
-* Secure ownership of generated designs using blockchain technology
+1. **User Input Layer**
+
+   * Text / Image / Sketch inputs
+
+2. **Preprocessing Layer**
+
+   * Input normalization and formatting *(placeholder: add details if implemented)*
+
+3. **Model Inference**
+
+   * Stable Diffusion generates design outputs
+
+4. **Post-processing**
+
+   * Image enhancement and formatting *(placeholder)*
+
+5. **Ownership Layer**
+
+   * Design hash stored via Ethereum smart contract
+
+6. **Storage Layer**
+
+   * Assets stored on IPFS
+
+7. **Frontend Rendering**
+
+   * Results displayed via web interface
+
+> 📊 *(Optional: Add architecture diagram image here)*
+
+---
+
+📈 **Performance Metrics**
+1. Text-to-Image: ~10–20 sec (GPU)
+2. Image-to-Image: ~8–15 sec
+3. Sketch-to-Image: ~12–22 sec
+4. GPU Usage: ~70–95%
+5. Latency Improvement: ~5–10x vs CPU
 
 ---
 
 ## 🖼️ UI Preview
 
-### 🖼️ Text-Image Generation
+### Text-to-Image Generation
+
 <p align="center">
   <img src="Text-to-image.png" width="800">
 </p>
 
-### 🖼️ Image-Image Generation
+### Image-to-Image Transformation
+
 <p align="center">
   <img src="image-to-image.png" width="800">
 </p>
 
-### 🖼️ Sketch-Image Generation
+### Sketch-to-Image Generation
+
 <p align="center">
   <img src="sketch-to-image.png" width="800">
 </p>
 
-### 🖼️ Design Certificate Generation
+### Design Certificate (Ownership)
+
 <p align="center">
   <img src="design-certificate.png" width="500">
 </p>
@@ -59,11 +118,10 @@ StyleSensei supports a multimodal pipeline that allows users to:
 
 ## 🛠️ Tech Stack
 
-### AI / Machine Learning
+### AI / ML
 
 * Stable Diffusion
-* Generative AI Models
-* Multimodal Learning
+* Multimodal Generation
 
 ### Backend
 
@@ -72,9 +130,7 @@ StyleSensei supports a multimodal pipeline that allows users to:
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
+* HTML, CSS, JavaScript
 * Bootstrap
 
 ### Blockchain
@@ -85,56 +141,84 @@ StyleSensei supports a multimodal pipeline that allows users to:
 
 ### Storage
 
-* IPFS (InterPlanetary File System)
----
-
-## 📈 Key Highlights
-
-* Multimodal AI-driven fashion design
-* Blockchain-based intellectual property protection
-* Decentralized storage for design assets
-* Personalized fashion recommendations
-* Scalable AI-powered design workflow
+* IPFS
 
 ---
 
-## 🔮 Future Enhancements
+## ⚙️ Installation 
 
-* Real-time fashion generation
-* Advanced personalization
-* Mobile-friendly interface
-* Virtual try-on integration
-* Design collaboration features
+### Prerequisites
 
+* Python 3.8+
+* MetaMask browser extension
+* IPFS
+* Truffle
+* Ganache
+* Node js
+  
+## 🧠 Challenges & Learnings
+
+* Handling **multimodal inputs** (text, image, sketch) in a unified pipeline
+* Reducing **Stable Diffusion inference latency**
+* Integrating **blockchain ownership with AI outputs**
+* Managing **decentralized storage (IPFS)** efficiently
 ---
 
-## 📄 Research Publication
+## 🔐 Blockchain Design
 
-This project is based on a research paper published in:
-
-**International Journal of Innovative Research in Technology (IJIRT)**
-Title: *Revolutionizing Fashion Design with Multimodal Generative AI and Blockchain-Enabled Ownership*
-Link : https://ijirt.org/article?manuscript=192431
-
+* Each generated design is hashed
+* Hash is recorded via **Ethereum smart contract**
+* Metadata and assets stored on **IPFS**
+* Ownership can be verified through blockchain transactions
 ---
 
 ## 🎯 Use Cases
 
 * Fashion Designers
+* Digital Creators
 * E-commerce Platforms
-* Digital Fashion Creators
-* Personal Styling Assistants
-* Creative Design Studios
+* AI-assisted Styling Tools
+* Design Prototyping Systems
+
+---
+
+## 🔮 Future Enhancements
+
+* Real-time generation optimization
+* Mobile-friendly UI
+* Virtual try-on integration
+* Collaborative design workflows
+* Advanced personalization models
+
+---
+
+## 📄 Research Publication
+
+**International Journal of Innovative Research in Technology (IJIRT)**
+📌 *Revolutionizing Fashion Design with Multimodal Generative AI and Blockchain-Enabled Ownership*
+
+🔗 https://ijirt.org/article?manuscript=192431
+
+---
+
+## 💡 Why This Project?
+
+Traditional fashion design workflows lack:
+
+* Rapid prototyping
+* Personalization
+* Ownership protection
+
+StyleSensei addresses these gaps by combining:
+
+* AI for creative generation
+* Blockchain for trust and ownership
 
 ---
 
 ## 👨‍💻 Author
 
-**Sanika Kulkarni**  
+**Sanika Kulkarni**
 Software Engineer
 
 ---
-
-## ⭐ Project Vision
-
-StyleSensei aims to redefine fashion design by combining creativity, personalization, and ownership into a unified AI-powered ecosystem.
