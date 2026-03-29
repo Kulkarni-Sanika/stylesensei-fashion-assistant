@@ -1,4 +1,4 @@
-<h1 align="center">👗 StyleSensei - >Multimodal AI Fashion Assistant</h1>
+<h1 align="center">👗 StyleSensei - Multimodal AI Fashion Assistant</h1>
 
 
 <p align="center">
