@@ -33,11 +33,10 @@ StyleSensei supports a multimodal pipeline that allows users to:
 
 ---
 
-## 🏗️ High-Level Architecture
+## 🖼️ UI Preview
 
-User Input → AI Generation Engine → Design Processing → Ownership Verification → Output Generation
-
-The system integrates generative AI with decentralized technologies to ensure creativity, authenticity, and trust.
+### 🖼️ Text-Image Generation
+![Text-Image Generation](Text-to-image.png)
 
 ---
 
