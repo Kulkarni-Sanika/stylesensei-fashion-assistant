@@ -36,19 +36,30 @@ StyleSensei supports a multimodal pipeline that allows users to:
 ## 🖼️ UI Preview
 
 ### 🖼️ Text-Image Generation
-![Text-Image Generation](Text-to-image.png)
+<p align="center">
+  <img src="Text-to-image.png" width="800">
+</p>
 
 ### 🖼️ Image-Image Generation
-![Image-Image Generation](image-to-image.png)
+<p align="center">
+  <img src="image-to-image.png" width="800">
+</p>
 
 ### 🖼️ Sketch-Image Generation
-![Sketch-Image Generation](sketch-to-image.png)
+<p align="center">
+  <img src="sketch-to-image.png" width="800">
+</p>
 
 ### 🖼️ Design Certificate Generation
-![Design Certificate Generation](design-certificate.png)
+<p align="center">
+  <img src="design-certificate.png" width="800">
+</p>
 
 ### 🖼️ Chatbot
-![Chatbot](chatbot.png)
+<p align="center">
+  <img src="chatbot.png" width="800">
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
