@@ -56,25 +56,25 @@ It combines **creative generation with verifiable ownership** in a unified pipel
 ### 🧾 Text-to-Image Generation
 
 <p align="center">
-  <img src="Text-to-image.png" width="800">
+  <img src="images/Text-to-image.png" width="800">
 </p>
 
 ### 🖼️ Image-to-Image Transformation
 
 <p align="center">
-  <img src="image-to-image.png" width="800">
+  <img src="images/image-to-image.png" width="800">
 </p>
 
 ### ✏️ Sketch-to-Image Generation
 
 <p align="center">
-  <img src="sketch-to-image.png" width="800">
+  <img src="images/sketch-to-image.png" width="800">
 </p>
 
 ### 🏷️ Design Certificate (Ownership)
 
 <p align="center">
-  <img src="design-certificate.png" width="500">
+  <img src="images/design-certificate.png" width="500">
 </p>
 
 ---
