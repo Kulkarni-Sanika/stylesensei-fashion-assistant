@@ -186,9 +186,3 @@ StyleSensei addresses these gaps by combining:
 
 ---
 
-## 👨‍💻 Author
-
-**Sanika Kulkarni**
-Software Engineer
-
----
