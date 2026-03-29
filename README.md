@@ -44,7 +44,7 @@ The goal is to combine **creative generation + verifiable ownership** into a sin
 
 
 <p align="center">
-  <img src="Text-to-image.png" width="800">
+  <img src="system-architecture.png" width="800">
 </p>
 
 ---
