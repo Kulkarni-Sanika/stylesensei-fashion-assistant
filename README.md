@@ -124,7 +124,7 @@ Link : https://ijirt.org/article?manuscript=192431
 
 ## 👨‍💻 Author
 
-Sanika Kulkarni
+**Sanika Kulkarni**  
 Software Engineer
 
 ---
