@@ -43,7 +43,7 @@ It combines **creative generation with verifiable ownership** in a unified pipel
 
 ## 📈 Performance Metrics
 
-* ⏱️ **Text-to-Image:** ~2 min 38 sec (GPU)
+* ⏱️ **Text-to-Image:** ~2 min 38 sec 
 * ⚡ **Image-to-Image:** ~1 min 59 sec
 * ✏️ **Sketch-to-Image:** ~2 min 27 sec
 * 🖥️ **GPU Usage:** ~70–95%
