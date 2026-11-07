@@ -62,7 +62,7 @@ It combines **creative generation with verifiable ownership** in a unified pipel
 ### 🖼️ Image-to-Image Transformation
 
 <p align="center">
-  <img src="images/image-to-image.png" width="800">
+  <img src="images/Image-to-Image.png" width="800">
 </p>
 
 ### ✏️ Sketch-to-Image Generation
